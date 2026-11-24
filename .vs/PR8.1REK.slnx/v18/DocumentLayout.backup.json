@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lpnu\\AP\\LR\\PR8.1REK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6CF01D-403A-E05A-FDBF-058E144B5C27}|testPR8.1REK\\testPR8.1REK.vcxproj|C:\\lpnu\\AP\\LR\\PR8.1REK\\testPR8.1REK\\testPR8.1REK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB6CF01D-403A-E05A-FDBF-058E144B5C27}|testPR8.1REK\\testPR8.1REK.vcxproj|solutionrelative:testPR8.1REK\\testPR8.1REK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0BC5BA-3734-49CD-BD0F-1B7E8E1DF3DD}|PR8.1REK\\PR8.1REK.vcxproj|C:\\lpnu\\AP\\LR\\PR8.1REK\\PR8.1REK\\pr8.1rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD0BC5BA-3734-49CD-BD0F-1B7E8E1DF3DD}|PR8.1REK\\PR8.1REK.vcxproj|solutionrelative:PR8.1REK\\pr8.1rek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testPR8.1REK.cpp",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR8.1REK\\testPR8.1REK\\testPR8.1REK.cpp",
+              "RelativeDocumentMoniker": "testPR8.1REK\\testPR8.1REK.cpp",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR8.1REK\\testPR8.1REK\\testPR8.1REK.cpp*",
+              "RelativeToolTip": "testPR8.1REK\\testPR8.1REK.cpp*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-24T21:05:31.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pr8.1rek.cpp",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR8.1REK\\PR8.1REK\\pr8.1rek.cpp",
+              "RelativeDocumentMoniker": "PR8.1REK\\pr8.1rek.cpp",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR8.1REK\\PR8.1REK\\pr8.1rek.cpp",
+              "RelativeToolTip": "PR8.1REK\\pr8.1rek.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-24T20:55:56.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  pr8.1rek.cpp
+C:\lpnu\AP\LR\PR8.1REK\PR8.1REK\pr8.1rek.cpp(48,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PR8.1REK.vcxproj -> C:\lpnu\AP\LR\PR8.1REK\x64\Debug\PR8.1REK.exe
